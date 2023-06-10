@@ -1,0 +1,55 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  background-color: rgb(140, 135, 135);
+}
+
+.container {
+  width: 80%;
+  min-height: 100vh;
+  background-color: white;
+  margin: auto;
+  padding: 100px 50px;
+  box-sizing: border-box;
+}
+
+.container h1 {
+  background-color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#numofwords {
+  background-color: aliceblue;
+  padding: 10px;
+  margin-top: 20px;
+  border: 1px solid rgb(75, 74, 72);
+  outline: none;
+  font: 100 1.3rem Georgia;
+}
+
+button {
+  color: rgb(0, 0, 0);
+  background-color: bisque;
+  padding: 11px;
+  font: 100 1.3rem sans-serif;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(231, 30, 30);
+}
+
+.paras {
+  background-color: bisque;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  word-spacing: 5px;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.footer p{
+    color: aliceblue;
+    background-color: black;
+}
